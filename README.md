@@ -102,5 +102,5 @@ At the age of 17, I found that most magazines described women's body types  base
 
 The body shape analyzer that I created is one of the components of my prototype app, now available on google play:
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSojpFFWqTqH_wHsjAwe--ZdKXrsSNZBDWNNz4qK8fYRX_wK0Wb&usqp=CAU" height="50" width="80">](https://play.google.com/store/apps/details?id=com.vins.vinslookbook&hl=en)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSojpFFWqTqH_wHsjAwe--ZdKXrsSNZBDWNNz4qK8fYRX_wK0Wb&usqp=CAU" height="50" width="500">](https://play.google.com/store/apps/details?id=com.vins.vinslookbook&hl=en)
 
