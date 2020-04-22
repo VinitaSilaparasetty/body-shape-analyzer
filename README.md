@@ -99,3 +99,8 @@ At the age of 17, I found that most magazines described women's body types  base
 <!-- wp:paragraph -->
 <p>(hips − bust) &lt; 3.6" AND (bust − hips) &lt; 3.6" AND (bust − waist) &lt; 9" AND (hips − waist) &lt; 10"</p>
 <!-- /wp:paragraph -->
+
+The body shape analyzer that I created is one of the components of my prototype app, now available on google play:
+
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSojpFFWqTqH_wHsjAwe--ZdKXrsSNZBDWNNz4qK8fYRX_wK0Wb&usqp=CAU">](https://play.google.com/store/apps/details?id=com.vins.vinslookbook&hl=en)
+
