@@ -3,7 +3,7 @@
 At the age of 17, I found that most magazines described women's body types  based on proportions. However, what someone may call 'wide hips' may not be wide enough to another person and this can lead to a lot of confusion. Here is how I  provide a more concrete method of analyzing women's body types.
 
 <p align="center">
-  <img width="300" height="500" src="http://vinslookbook.com/wp-content/uploads/2015/08/girl-1535859_1920-683x1024.jpg">
+  <img width="" height="" src="http://vinslookbook.com/wp-content/uploads/2015/08/girl-1535859_1920-683x1024.jpg">
 </p>
 
 <!-- wp:heading {"level":3} -->
