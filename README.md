@@ -112,4 +112,4 @@ The body shape analyzer that I created is one of the components of my prototype 
 
 # Citation:
 
-Yim Lee, J., Istook, C.L., Ja Nam, Y. and Mi Park, S. (2007), "Comparison of body shape between USA and Korean women", International Journal of Clothing Science and Technology, Vol. 19 No. 5, pp. 374-391. https://doi.org/10.1108/09556220710819555
+[Yim Lee, J., Istook, C.L., Ja Nam, Y. and Mi Park, S. (2007), "Comparison of body shape between USA and Korean women", International Journal of Clothing Science and Technology, Vol. 19 No. 5, pp. 374-391.](https://doi.org/10.1108/09556220710819555)
